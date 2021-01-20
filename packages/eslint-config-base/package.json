@@ -1,0 +1,30 @@
+{
+    "name": "@iraiser/eslint-config-base",
+    "description": "ESLint shareable config for the iRaiser CSS style guide.",
+    "version": "0.0.0",
+    "main": "index.js",
+    "engines": {
+        "node": ">=10.0.0",
+        "npm": ">=6.0.0"
+    },
+    "dependencies": {
+        "@types/node": "^14.14.20",
+        "eslint": "^7.18.0"
+    },
+    "files": [
+        "index.js"
+    ],
+    "keywords": [
+        "eslint",
+        "js"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/iRaiser/eslint-configs/blob/master/packages/eslint-config-base",
+    "bugs": {
+        "url": "https://github.com/iRaiser/eslint-configs/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/iRaiser/eslint-configs.git"
+    }
+}
