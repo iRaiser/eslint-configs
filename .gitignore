@@ -1,4 +1,5 @@
 ## Files
+*.log
 *.orig
 /packages/*/package-lock.json
 
