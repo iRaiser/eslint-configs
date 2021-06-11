@@ -1,0 +1,32 @@
+{
+    "name": "@iraiser/eslint-config-vue",
+    "description": "ESLint shareable config for the iRaiser VueJS style guide.",
+    "version": "0.0.0",
+    "main": "index.js",
+    "engines": {
+        "node": ">=10.0.0",
+        "npm": ">=7.0.0"
+    },
+    "dependencies": {
+        "@iraiser/eslint-config-base": "^1.0.0",
+        "@types/node": "^15.12.2",
+        "eslint": "^7.28.0",
+        "eslint-plugin-vue": "^7.11.0"
+    },
+    "files": [
+        "index.js"
+    ],
+    "keywords": [
+        "eslint",
+        "vue"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/iRaiser/eslint-configs/blob/master/packages/eslint-config-vue",
+    "bugs": {
+        "url": "https://github.com/iRaiser/eslint-configs/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/iRaiser/eslint-configs.git"
+    }
+}
