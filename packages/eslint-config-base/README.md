@@ -3,7 +3,7 @@
 [![Version](https://flat.badgen.net/npm/v/@iraiser/eslint-config-base)](https://www.npmjs.com/package/@iraiser/eslint-config-base)
 [![Download](https://flat.badgen.net/npm/dt/@iraiser/eslint-config-base)](https://www.npmjs.com/package/@iraiser/eslint-config-base)
 
-ESLint shareable config for the iRaiser CSS style guide.
+ESLint shareable config for the iRaiser JavaScript style guide.
 
 ## Install
 
