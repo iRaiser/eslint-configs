@@ -2,7 +2,6 @@
 
 module.exports = {
     'extends': [
-        "@iraiser/eslint-config-base",
         "plugin:vue/recommended"
     ],
     'rules': {
@@ -16,6 +15,13 @@ module.exports = {
             4
         ],
         "vue/html-self-closing": "off",
+        "vue/html-closing-bracket-newline": [
+            "error",
+            {
+                "singleline": "never",
+                "multiline": "never"
+            }
+        ],
         "vue/html-closing-bracket-spacing": [
             "error",
             {
