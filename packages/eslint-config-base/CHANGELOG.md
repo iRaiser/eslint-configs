@@ -1,3 +1,17 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [1.2.0](https://github.com/iRaiser/eslint-configs/compare/@iraiser/eslint-config-base@1.1.0...@iraiser/eslint-config-base@1.2.0) (2021-10-13)
+
+
+### Features
+
+* **eslint-config-base:** bump to `eslint` 8.0.0 ([ccc2e38](https://github.com/iRaiser/eslint-configs/commit/ccc2e38b1ee2359744b88e82fe2f9311cdd62d03))
+
+
+
 # Release Notes
 
 ## Unreleased
