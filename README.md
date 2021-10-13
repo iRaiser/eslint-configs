@@ -27,10 +27,6 @@ the `release` command:
 
     npm run release
 
-Choose the right version on list for each package and valid, this will automatically create the commit message, tag,
-update the `CHANGELOG.md` and create a commit, only in local for security and prevent bad release. After you check the
-release commit if good, you just need to push the commit and tag to distant repo!
-
 ## Packages
 
 | Package | Version |
