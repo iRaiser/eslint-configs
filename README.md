@@ -20,6 +20,17 @@ Create ``.eslintrc`` file on root of your project.
 
 You can extend the rules with your own config, see [ESLint documentation](https://eslint.org/docs/developer-guide/shareable-configs#using-a-shareable-config).
 
+## Release
+
+When you have finish developing a feature, bugfix or something else, push your changes on `master` branch and launch
+the `release` command:
+
+    npm run release
+
+Choose the right version on list for each package and valid, this will automatically create the commit message, tag,
+update the `CHANGELOG.md` and create a commit, only in local for security and prevent bad release. After you check the
+release commit if good, you just need to push the commit and tag to distant repo!
+
 ## Packages
 
 | Package | Version |
