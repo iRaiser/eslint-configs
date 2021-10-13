@@ -2,7 +2,8 @@
     "private": true,
     "scripts": {
         "prepare": "husky install",
-        "postinstall": "lerna bootstrap --hoist"
+        "postinstall": "lerna bootstrap --hoist",
+        "release": "lerna version --no-push"
     },
     "engines": {
         "node": ">=10.0.0",
