@@ -8,8 +8,8 @@
         "npm": ">=7.0.0"
     },
     "dependencies": {
-        "@types/node": "^16.10.8",
-        "eslint": "^8.0.0"
+        "@types/node": "^16.11.1",
+        "eslint": "^8.0.1"
     },
     "files": [
         "index.js"

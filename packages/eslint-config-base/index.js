@@ -27,7 +27,10 @@ module.exports = {
         'curly': 'error',
         'indent': [
             'error',
-            4
+            4,
+            {
+                "SwitchCase": 1
+            }
         ],
         'keyword-spacing': 'error',
         'eqeqeq': [
