@@ -1,7 +1,9 @@
 'use strict';
 
 module.exports = {
-    'extends': 'eslint:recommended',
+    'extends': [
+        'eslint:recommended'
+    ],
     'env': {
         'es6': true
     },
@@ -29,7 +31,7 @@ module.exports = {
             'error',
             4,
             {
-                "SwitchCase": 1
+                'SwitchCase': 1
             }
         ],
         'keyword-spacing': 'error',
@@ -43,7 +45,8 @@ module.exports = {
         'semi': 'error',
         'space-in-parens': 'error',
         'object-curly-newline': [
-            'error', {
+            'error',
+            {
                 'ObjectExpression': {
                     'multiline': true,
                     'minProperties': 1
@@ -59,7 +62,8 @@ module.exports = {
         ],
         'object-property-newline': 'error',
         'padding-line-between-statements': [
-            'error', {
+            'error',
+            {
                 'blankLine': 'always',
                 'prev': [
                     'directive',

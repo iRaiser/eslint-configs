@@ -21,11 +21,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **eslint-config-base:** bump to `eslint` 8.0.0 ([ccc2e38](https://github.com/iRaiser/eslint-configs/commit/ccc2e38b1ee2359744b88e82fe2f9311cdd62d03))
 
 
-
-# Release Notes
-
-## Unreleased
-
 ## v1.1.0 (2021-06-11)
 
 ### Changed
