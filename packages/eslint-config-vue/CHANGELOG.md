@@ -21,11 +21,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **eslint-config-vue:** bump to `eslint` 8.0.0 and `eslint-plugin-vue` 7.19.1 ([1791e98](https://github.com/iRaiser/eslint-configs/commit/1791e98d08d6ae3d6e4bfe1b2c13903af79701fe))
 
 
-
-# Release Notes
-
-## Unreleased
-
 ## v1.1.0 (2021-06-14)
 
 ### Added

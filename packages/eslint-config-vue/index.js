@@ -2,48 +2,48 @@
 
 module.exports = {
     'extends': [
-        "plugin:vue/recommended"
+        'plugin:vue/recommended'
     ],
     'rules': {
-        "vue/attributes-order": "off",
-        "vue/html-indent": [
-            "error",
+        'vue/attributes-order': 'off',
+        'vue/html-indent': [
+            'error',
             4
         ],
-        "vue/html-comment-indent": [
-            "error",
+        'vue/html-comment-indent': [
+            'error',
             4
         ],
-        "vue/html-self-closing": "off",
-        "vue/html-closing-bracket-newline": [
-            "error",
+        'vue/html-self-closing': 'off',
+        'vue/html-closing-bracket-newline': [
+            'error',
             {
-                "singleline": "never",
-                "multiline": "never"
+                'singleline': 'never',
+                'multiline': 'never'
             }
         ],
-        "vue/html-closing-bracket-spacing": [
-            "error",
+        'vue/html-closing-bracket-spacing': [
+            'error',
             {
-                "selfClosingTag": "never"
+                'selfClosingTag': 'never'
             }
         ],
-        "vue/max-attributes-per-line": "off",
-        "vue/script-indent": [
-            "error",
+        'vue/max-attributes-per-line': 'off',
+        'vue/script-indent': [
+            'error',
             4,
             {
-                "baseIndent": 1
+                'baseIndent': 1
             }
         ]
     },
-    "overrides": [
+    'overrides': [
         {
-            "files": [
-                "*.vue"
+            'files': [
+                '*.vue'
             ],
-            "rules": {
-                "indent": "off"
+            'rules': {
+                'indent': 'off'
             }
         }
     ]
