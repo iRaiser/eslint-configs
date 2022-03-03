@@ -1,7 +1,6 @@
-# Change Log
+# Changelog
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
 ## [1.3.0](https://github.com/iRaiser/eslint-configs/compare/@iraiser/eslint-config-base@1.2.0...@iraiser/eslint-config-base@1.3.0) (2021-10-20)
 
