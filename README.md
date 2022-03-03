@@ -22,14 +22,13 @@ You can extend the rules with your own config, see [ESLint documentation](https:
 
 ## Release
 
-When you have finish developing a feature, bugfix or something else, push your changes on `master` branch and launch
-the `release` command:
-
-    npm run release
+When you have finish developing a feature, bugfix or something else, push your changes on `main` branch. The Github
+C.I. will launch the release pipeline automatically and create release commit and tag the good version following
+the ["Conventional Commit"](https://www.conventionalcommits.org) convention.
 
 ## Packages
 
-| Package | Version |
-|---|---|
+| Package                                                                                                              | Version                                                                                                                            |
+|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | [``@iraiser/eslint-config-base``](https://github.com/iRaiser/eslint-configs/blob/master/packages/eslint-config-base) | [![Version](https://flat.badgen.net/npm/v/@iraiser/eslint-config-base)](https://www.npmjs.com/package/@iraiser/eslint-config-base) |
-| [``@iraiser/eslint-config-vue``](https://github.com/iRaiser/eslint-configs/blob/master/packages/eslint-config-vue) | [![Version](https://flat.badgen.net/npm/v/@iraiser/eslint-config-vue)](https://www.npmjs.com/package/@iraiser/eslint-config-vue) |
+| [``@iraiser/eslint-config-vue``](https://github.com/iRaiser/eslint-configs/blob/master/packages/eslint-config-vue)   | [![Version](https://flat.badgen.net/npm/v/@iraiser/eslint-config-vue)](https://www.npmjs.com/package/@iraiser/eslint-config-vue)   |
