@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [@iraiser/eslint-config-vue-v1.4.1](https://github.com/iRaiser/eslint-configs/compare/@iraiser/eslint-config-vue@1.4.0...@iraiser/eslint-config-vue@1.4.1) (2022-09-16)
+
+
+### Bug Fixes
+
+* removed unneeded `@types/node` dependency ([5457621](https://github.com/iRaiser/eslint-configs/commit/5457621af919d85cd6d0d9ea22f9a8e66d08fffc))
+
 ## [@iraiser/eslint-config-vue-v1.4.0](https://github.com/iRaiser/eslint-configs/compare/@iraiser/eslint-config-vue@1.3.0...@iraiser/eslint-config-vue@1.4.0) (2022-03-03)
 
 
