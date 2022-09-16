@@ -22,7 +22,7 @@ You can extend the rules with your own config, see [ESLint documentation](https:
 
 ## Release
 
-When you have finish developing a feature, bugfix or something else, push your changes on `main` branch. The Github
+When you have finish developing a feature, bugfix or something else, push your changes on `main` branch. The GitHub
 C.I. will launch the release pipeline automatically and create release commit and tag the good version following
 the ["Conventional Commit"](https://www.conventionalcommits.org) convention.
 
