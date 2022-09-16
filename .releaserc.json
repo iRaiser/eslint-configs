@@ -68,7 +68,7 @@
         [
             "@semantic-release/git",
             {
-                "message": "chore(release): publish version ${nextRelease.version}"
+                "message": "chore(${LERNA_PACKAGE_NAME}): publish version ${nextRelease.version}"
             }
         ],
         "@semantic-release/github"
