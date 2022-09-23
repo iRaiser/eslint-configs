@@ -15,7 +15,7 @@
         "vue"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/iRaiser/eslint-configs/blob/master/packages/eslint-config-vue",
+    "homepage": "https://github.com/iRaiser/eslint-configs/blob/main/packages/eslint-config-vue",
     "bugs": {
         "url": "https://github.com/iRaiser/eslint-configs/issues"
     },

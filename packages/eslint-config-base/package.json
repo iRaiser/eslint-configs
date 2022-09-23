@@ -14,7 +14,7 @@
         "js"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/iRaiser/eslint-configs/blob/master/packages/eslint-config-base",
+    "homepage": "https://github.com/iRaiser/eslint-configs/blob/main/packages/eslint-config-base",
     "bugs": {
         "url": "https://github.com/iRaiser/eslint-configs/issues"
     },
