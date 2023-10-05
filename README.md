@@ -28,7 +28,7 @@ the ["Conventional Commit"](https://www.conventionalcommits.org) convention.
 
 ## Packages
 
-| Package                                                                                                              | Version                                                                                                                            |
-|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Package                                                                                                            | Version                                                                                                                            |
+|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | [``@iraiser/eslint-config-base``](https://github.com/iRaiser/eslint-configs/blob/main/packages/eslint-config-base) | [![Version](https://flat.badgen.net/npm/v/@iraiser/eslint-config-base)](https://www.npmjs.com/package/@iraiser/eslint-config-base) |
 | [``@iraiser/eslint-config-vue``](https://github.com/iRaiser/eslint-configs/blob/main/packages/eslint-config-vue)   | [![Version](https://flat.badgen.net/npm/v/@iraiser/eslint-config-vue)](https://www.npmjs.com/package/@iraiser/eslint-config-vue)   |
