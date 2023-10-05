@@ -2,19 +2,10 @@
 
 module.exports = {
     'extends': [
-        'plugin:vue/recommended'
+        'plugin:vue/vue3-recommended'
     ],
     'rules': {
         'vue/attributes-order': 'off',
-        'vue/html-indent': [
-            'error',
-            4
-        ],
-        'vue/html-comment-indent': [
-            'error',
-            4
-        ],
-        'vue/html-self-closing': 'off',
         'vue/html-closing-bracket-newline': [
             'error',
             {
@@ -22,19 +13,27 @@ module.exports = {
                 'multiline': 'never'
             }
         ],
+        'vue/html-comment-indent': [
+            'error',
+            4
+        ],
         'vue/html-closing-bracket-spacing': [
             'error',
             {
-                'selfClosingTag': 'never'
+                'selfClosingTag': 'always'
             }
+        ],
+        'vue/html-indent': [
+            'error',
+            4
         ],
         'vue/max-attributes-per-line': 'off',
         'vue/script-indent': [
             'error',
             4,
             {
-                'baseIndent': 1,
-                'switchCase': 1
+                'baseIndent': 0,
+                'switchCase': 0
             }
         ]
     },
