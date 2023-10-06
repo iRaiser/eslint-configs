@@ -33,7 +33,7 @@ module.exports = {
             4,
             {
                 'baseIndent': 0,
-                'switchCase': 0
+                'switchCase': 1
             }
         ]
     },
