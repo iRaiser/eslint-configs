@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.1](https://github.com/iRaiser/eslint-configs/compare/@iraiser/eslint-config-vue@2.0.0...@iraiser/eslint-config-vue@2.0.1) (2023-10-06)
+
+
+### Bug Fixes
+
+* **vue:** `vue/script-indent` config for `switchCase` ([17f4bb9](https://github.com/iRaiser/eslint-configs/commit/17f4bb9b44506c9d5e11ef965b15bbffc88e3ec2))
+
+
+
+
 ## [2.0.0](https://github.com/iRaiser/eslint-configs/compare/@iraiser/eslint-config-vue@1.4.1...@iraiser/eslint-config-vue@2.0.0) (2023-10-06)
 
 

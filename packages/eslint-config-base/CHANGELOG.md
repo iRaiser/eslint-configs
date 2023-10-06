@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.3](https://github.com/iRaiser/eslint-configs/compare/@iraiser/eslint-config-base@1.3.2...@iraiser/eslint-config-base@1.3.3) (2023-10-06)
+
+
+### Bug Fixes
+
+* **base:** `padding-line-between-statements` config ([407ad06](https://github.com/iRaiser/eslint-configs/commit/407ad061d289c380ac3ac11de4530a6961064d37))
+
+
+
+
 ## [1.3.2](https://github.com/iRaiser/eslint-configs/compare/@iraiser/eslint-config-base@1.3.1...@iraiser/eslint-config-base@1.3.2) (2023-10-06)
 
 **Note:** Version bump only for package @iraiser/eslint-config-base

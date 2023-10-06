@@ -1,7 +1,7 @@
 {
     "name": "@iraiser/eslint-config-vue",
     "description": "ESLint shareable config for the iRaiser VueJS style guide.",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "main": "index.js",
     "dependencies": {
         "eslint": "^8.50.0",
