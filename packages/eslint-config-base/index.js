@@ -75,10 +75,16 @@ module.exports = {
                 ],
                 'next': '*'
             }, {
-                'blankLine': 'always',
-                'prev': '*',
+                'blankLine': 'any',
+                'prev': [
+                    'const',
+                    'let',
+                    'var'
+                ],
                 'next': [
-                    'return'
+                    'const',
+                    'let',
+                    'var'
                 ]
             }
         ],
