@@ -20,11 +20,15 @@ Create ``.eslintrc`` file on root of your project.
 
 You can extend the rules with your own config, see [ESLint documentation](https://eslint.org/docs/developer-guide/shareable-configs#using-a-shareable-config).
 
+
 ## Release
 
-When you have finish developing a feature, bugfix or something else, push your changes on `main` branch. The GitHub
-C.I. will launch the release pipeline automatically and create release commit and tag the good version following
-the ["Conventional Commit"](https://www.conventionalcommits.org) convention.
+When you have finish developing a feature, bugfix or something else, push your changes on `main` branch and launch
+the `release` command:
+
+```shell
+npm run release
+```
 
 ## Packages
 

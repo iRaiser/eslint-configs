@@ -1,6 +1,22 @@
 {
     "version": "independent",
-    "packages": [
-        "packages/*"
-    ]
+    "useWorkspaces": true,
+    "useNx": true,
+    "command": {
+        "publish": {
+            "message": "chore(release): publish",
+            "ignoreChanges": [
+                "**/*.md",
+                "**/.github/*"
+            ]
+        },
+        "version": {
+            "allowBranch": "main",
+            "conventionalCommits": true,
+            "changelogPreset": {
+                "name": "conventionalcommits"
+            }
+        }
+    },
+    "$schema": "node_modules/lerna/schemas/lerna-schema.json"
 }
