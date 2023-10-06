@@ -1,6 +1,21 @@
-# Changelog
+# Change Log
 
-All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [2.0.0](https://github.com/iRaiser/eslint-configs/compare/@iraiser/eslint-config-vue@1.4.1...@iraiser/eslint-config-vue@2.0.0) (2023-10-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* **vue:** use `plugin:vue/vue3-recommended` config
+
+### Features
+
+* **vue:** use `plugin:vue/vue3-recommended` config ([b9aa63c](https://github.com/iRaiser/eslint-configs/commit/b9aa63c9af464f93c27d8a85d2d11281723f621d))
+
+
+
 
 ## [@iraiser/eslint-config-vue-v1.4.1](https://github.com/iRaiser/eslint-configs/compare/@iraiser/eslint-config-vue@1.4.0...@iraiser/eslint-config-vue@1.4.1) (2022-09-16)
 

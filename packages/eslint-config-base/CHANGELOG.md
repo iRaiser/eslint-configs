@@ -1,6 +1,16 @@
-# Changelog
+# Change Log
 
-All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [1.3.2](https://github.com/iRaiser/eslint-configs/compare/@iraiser/eslint-config-base@1.3.1...@iraiser/eslint-config-base@1.3.2) (2023-10-06)
+
+**Note:** Version bump only for package @iraiser/eslint-config-base
+
+
+
+
+
 
 ## [@iraiser/eslint-config-base-v1.3.1](https://github.com/iRaiser/eslint-configs/compare/@iraiser/eslint-config-base@1.3.0...@iraiser/eslint-config-base@1.3.1) (2022-09-16)
 
